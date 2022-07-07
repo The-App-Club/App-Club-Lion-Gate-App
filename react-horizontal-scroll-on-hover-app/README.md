@@ -1,0 +1,4 @@
+- reference
+  - [jerky-horizontal-scroll-on-hover](https://stackoverflow.com/questions/41345207/jerky-horizontal-scroll-on-hover)
+  - [scrolling-smoothly-horizontally-on-mouse-hover](https://stackoverflow.com/questions/55785550/scrolling-smoothly-horizontally-on-mouse-hover)
+  - [lionsgate](https://www.lionsgate.com/)

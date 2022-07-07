@@ -1,0 +1,28 @@
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.carousel-frame {
+  width: 100%;
+  margin-bottom: 0.5em;
+  padding-bottom: 1em;
+  position: relative;
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+.carousel-frame ul {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  list-style: none;
+}
+.carousel-frame li.carousel-item {
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 5px 0 0;
+  padding: 0;
+}
